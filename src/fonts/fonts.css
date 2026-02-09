@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "Au_Bord_de_la_Seine";
+    src: url(../fonts/Au_Bord_de_la_Seine.ttf) format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Planet_Jumbo";
+    src: url(../fonts/Planet_Jumbo.otf) format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Smash_Brush";
+    src: url(../fonts/Smash_Brush.otf) format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
